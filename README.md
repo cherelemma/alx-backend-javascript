@@ -1,4 +1,4 @@
-# ALX Back-end JavaScript**
+# ALX Back-end JavaScript
 
 ## Description
 This repository contains programs written for the specialization of backend in JavaScript.
